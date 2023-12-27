@@ -5,6 +5,14 @@ Items: {
 		DisplayName: shiro_
 		Tooltip: c
 	}
+
+	pochita: {
+		DisplayName: pochita
+		Tooltip: c
+	}
 }
 
-Projectiles.ProShiro.DisplayName: Pro Shiro
+Projectiles: {
+	ProShiro.DisplayName: Pro Shiro
+	usepochita.DisplayName: usepochita
+}
