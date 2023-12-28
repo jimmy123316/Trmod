@@ -1,0 +1,3 @@
+displayName = trmodname
+author = tr
+version = 0.1
